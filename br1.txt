@@ -1,3 +1,4 @@
 new branch1 file contents
 new branch1 file contents 2
 new branch1 file contents 3
+new branch1 file contents 4
